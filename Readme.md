@@ -30,7 +30,7 @@ An umbrella blocks the mobs.
 3. Heart
 A life is added.
 
-$ But be careful not the get the special mob.
+- But be careful not the get the special mob.
 
 4. Ghost
 It disturbs the player filling the screen.
